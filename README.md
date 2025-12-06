@@ -1,11 +1,11 @@
-🧑‍💼 Online Professional Community Platform
+## 🧑‍💼 Online Professional Community Platform
 
 A full-stack MERN application that connects job seekers, recruiters, and industry professionals. The platform enables users to build profiles, explore jobs, chat in real-time, and engage in a community environment.
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 Frontend
 
-ReactJS – For building the single-page application interface
+* ReactJS – For building the single-page application interface
 
 CSS – For styling and layout
 
